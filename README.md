@@ -1,8 +1,10 @@
-[![MasterHead](http://wallup.net/wp-content/uploads/2016/01/256678-stars-galaxy.jpg)]
+![MasterHead](http://wallup.net/wp-content/uploads/2016/01/256678-stars-galaxy.jpg)
 <h1 align="center">Hi😊, I'm Radouane Iben-hamou</h1>
 <h3 align="center">A Student in 1337 from Morroco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alien-MEGA&show_icons=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-MEGA&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alien-mega&label=Profile%20views&color=0e75b6&style=flat" alt="alien-mega" /> </p>
 
