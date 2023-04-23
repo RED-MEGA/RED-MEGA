@@ -1,14 +1,18 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alien-mega&label=Profile%20views&color=0e75b6&style=flat" alt="alien-mega" /> </p>
+
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<br>
+<img src="https://github.com/Alien-MEGA/Alien-MEGA/blob/main/red.json"/>
+<br>
+<img src="https://github.com/Alien-MEGA/Alien-MEGA/blob/main/redred.svg"/>
+
 ![MasterHead](http://wallup.net/wp-content/uploads/2016/01/256678-stars-galaxy.jpg)
 <h1 align="center">Hi😊, I'm Radouane Iben-hamou</h1>
-<h3 align="center">A Student in 1337 from Morroco</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h3 align="center">A Student in 1337</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alien-MEGA&show_icons=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-MEGA&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alien-mega&label=Profile%20views&color=0e75b6&style=flat" alt="alien-mega" /> </p>
-
-<p align="left"> <a href="https://twitter.com/radouaneiben" target="blank"><img src="https://img.shields.io/twitter/follow/radouaneiben?logo=twitter&style=for-the-badge" alt="radouaneiben" /></a> </p>
 
 - 🌱 I’m currently learning **C language, Design (Photoshop & Illustrator), Digital Marketing**
 
@@ -28,7 +32,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/radouaneibenha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="radouaneibenha" /></a></p><br><br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alien-mega&show_icons=true&locale=en" alt="alien-mega" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alien-mega&" alt="alien-mega" /></p>
