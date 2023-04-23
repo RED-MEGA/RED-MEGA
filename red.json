@@ -1,0 +1,55 @@
+// Get the product elements
+var products = document.querySelectorAll('.product');
+
+// Loop through the products and add a click event listener to each one
+products.forEach(function(product) {
+  product.addEventListener('click', function() {
+    // Get the product details
+    var name = this.querySelector('.name').textContent;
+    var price = this.querySelector('.price').textContent;
+
+    // Add the product to the cart
+    addToCart(name, price);
+  });
+});
+
+// Add a product to the cart
+function addToCart(name, price) {
+  // Update the cart total
+  updateCartTotal(price);
+
+  // Add the product to the cart list
+  var cartItem = document.createElement('li');
+  cartItem.classList.add('cart-item');
+  cartItem.innerHTML = `
+    <span class="name">${name}</span>
+    <span class="price">${price}</span>
+    <button class="remove-button">Remove</button>
+  `;
+  document.querySelector('.cart-list').appendChild(cartItem);
+
+  // Add a click event listener to the remove button
+  cartItem.querySelector('.remove-button').addEventListener('click', function() {
+    // Remove the item from the cart and update the total
+    this.parentElement.remove();
+    updateCartTotal(price, true);
+  });
+}
+
+// Update the cart total
+function updateCartTotal(price, isRemoving) {
+  // Get the current total
+  var total = document.querySelector('.cart-total');
+  var totalValue = parseFloat(total.textContent);
+
+  // Update the total based on whether an item is being added or removed
+  if (isRemoving) {
+    totalValue -= parseFloat(price);
+  } else {
+    totalValue += parseFloat(price);
+  }
+
+  // Update the total element with the new value
+  total.textContent = totalValue.toFixed(2);
+}
+S
