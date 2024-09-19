@@ -1,31 +1,193 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alien-mega&label=Profile%20views&color=0e75b6&style=flat" alt="alien-mega" /> </p>
+# Welcome to My GitHub Profile
 
-![MasterHead](http://wallup.net/wp-content/uploads/2016/01/256678-stars-galaxy.jpg)
+## 👨‍💻 About Me
+Hi, I'm a passionate software developer with a strong background in full-stack development, system administration, and low-level programming. I am currently pursuing a Computer Science degree at 1337 Coding School, with expected graduation in August 2024. I enjoy working with modern web technologies, tackling algorithmic challenges, and creating performance-optimized applications. Feel free to check out some of my projects below!
 
-<img width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> <img width="650" src="https://github.com/Alien-MEGA/Alien-MEGA/blob/main/redred.svg"/>
+## 🛠️ Skills
 
-<h1 align="center">Hi😊, I'm Radouane Iben-hamou</h1>
-<h3 align="center">A Student in 1337</h3>
+### Programming Languages
+- Python
+- JavaScript/TypeScript
+- C
+- C++
+- Rust
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alien-MEGA&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-MEGA&theme=codeSTACKr)
+### Frontend Development
+- ReactJs
+- NextJs
+- Angular
+- Tailwind CSS
+
+### Backend Development
+- Django & Django REST Framework (DRF)
+- Nest.js
+- RESTful APIs
+- PostgreSQL
+- MongoDB
+
+### Tools & Technologies
+- Git & GitHub
+- Docker & Docker Compose
+- Bash
+- SSH
+
+## 🎓 Education
+
+**1337 Coding School**  
+*Oct 2022 – Aug 2024*  
+- **Focus Areas**: Unix, Algorithms, OOP, Web Development, Network and System Administration, Group and Interpersonal Collaboration
+
+## 📁 Projects
+
+### GHOST PADDLE 2024
+A full-stack web application featuring real-time Ping Pong gameplay.
+
+- **Tech Stack**: NextJs, Django REST Framework, Django Channels
+- **Key Features**:
+  - Real-time multiplayer Ping Pong game for 2 to 8 players (tournament mode)
+  - JWT-based user authentication with 2FA for enhanced security
+  - User profiles, dashboards, and friend management system
+  - Responsive UI design using Tailwind CSS
+  - Secured communication with HTTPS
+
+### IRC SERVER 2023
+A scalable, high-concurrency IRC server implementation compliant with IRC RFC standards.
+
+- **Tech Stack**: C, Networking
+- **Key Features**:
+  - Support for over 200 simultaneous clients
+  - I/O multiplexing for efficient network communication
+  - User authentication and channel management
+  - Optimized for low-latency and scalability
+
+### 3D GAME: GOD OF WAR EDITION 2023
+A 3D game implementing raycasting rendering technology.
+
+- **Tech Stack**: C
+- **Key Features**:
+  - Real-time rendering using raycasting
+  - Custom texture system for enhanced visual effects
+  - Optimized for 60 fps for smooth gameplay
+
+### Mini-Shell 2023
+A Unix shell developed in C, featuring core command execution and scripting capabilities.
+
+- **Tech Stack**: C, Unix
+- **Key Features**:
+  - Support for command execution, piping, and I/O redirection
+  - Environment variable handling
+  - Low-level process and file descriptor management using system calls
+
+## 💻 Tools I Use
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker, Docker Compose
+- **Scripting**: Bash
+- **Remote Access**: SSH
+
+## 📫 Let's Connect
+Feel free to reach out or explore my repositories for more detailed work and open-source contributions.
+
+---
+
+Thanks for visiting my profile! 😊
 
 
-- 🌱 I’m currently learning **C language, Design (Photoshop & Illustrator), Digital Marketing**
 
-- 📫 How to reach me **Redouanebh4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/radouaneiben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radouaneiben" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/radouane-iben-hamou-29a91b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radouane-iben-hamou-29a91b216" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19668047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19668047" height="30" width="40" /></a>
-<a href="https://instagram.com/alien_mega_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alien_mega_x" height="30" width="40" /></a>
-<a href="https://discord.gg/REDMEGA#2537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="REDMEGA#2537" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/radouaneibenha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="radouaneibenha" /></a></p><br><br>
+
+
+
+# Welcome to My GitHub Profile
+
+## 👨‍💻 About Me
+Hi, I'm a passionate software developer with a strong background in full-stack development, system administration, and low-level programming. I am currently pursuing a Computer Science degree at 1337 Coding School, with expected graduation in August 2024. I enjoy working with modern web technologies, tackling algorithmic challenges, and creating performance-optimized applications. Feel free to check out some of my projects below!
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- JavaScript/TypeScript
+- C
+- C++
+- Rust
+
+### Frontend Development
+- ReactJs
+- NextJs
+- Angular
+- Tailwind CSS
+
+### Backend Development
+- Django & Django REST Framework (DRF)
+- Nest.js
+- RESTful APIs
+- PostgreSQL
+- MongoDB
+
+### Tools & Technologies
+- Git & GitHub
+- Docker & Docker Compose
+- Bash
+- SSH
+
+## 🎓 Education
+
+**1337 Coding School**  
+*Oct 2022 – Aug 2024*  
+- **Focus Areas**: Unix, Algorithms, OOP, Web Development, Network and System Administration, Group and Interpersonal Collaboration
+
+## 📁 Projects
+
+### GHOST PADDLE 2024
+A full-stack web application featuring real-time Ping Pong gameplay.
+
+- **Tech Stack**: NextJs, Django REST Framework, Django Channels
+- **Key Features**:
+  - Real-time multiplayer Ping Pong game for 2 to 8 players (tournament mode)
+  - JWT-based user authentication with 2FA for enhanced security
+  - User profiles, dashboards, and friend management system
+  - Responsive UI design using Tailwind CSS
+  - Secured communication with HTTPS
+
+### IRC SERVER 2023
+A scalable, high-concurrency IRC server implementation compliant with IRC RFC standards.
+
+- **Tech Stack**: C, Networking
+- **Key Features**:
+  - Support for over 200 simultaneous clients
+  - I/O multiplexing for efficient network communication
+  - User authentication and channel management
+  - Optimized for low-latency and scalability
+
+### 3D GAME: GOD OF WAR EDITION 2023
+A 3D game implementing raycasting rendering technology.
+
+- **Tech Stack**: C
+- **Key Features**:
+  - Real-time rendering using raycasting
+  - Custom texture system for enhanced visual effects
+  - Optimized for 60 fps for smooth gameplay
+
+### Mini-Shell 2023
+A Unix shell developed in C, featuring core command execution and scripting capabilities.
+
+- **Tech Stack**: C, Unix
+- **Key Features**:
+  - Support for command execution, piping, and I/O redirection
+  - Environment variable handling
+  - Low-level process and file descriptor management using system calls
+
+## 💻 Tools I Use
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker, Docker Compose
+- **Scripting**: Bash
+- **Remote Access**: SSH
+
+## 📫 Let's Connect
+Feel free to reach out or explore my repositories for more detailed work and open-source contributions.
+
+---
+
+Thanks for visiting my profile! 😊
