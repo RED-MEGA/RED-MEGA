@@ -42,7 +42,7 @@ Hi, I'm a passionate software developer with a strong background in full-stack d
 ### GHOST PADDLE 2024
 A full-stack web application featuring real-time Ping Pong gameplay.
 
-- **Tech Stack**: NextJs, Django REST Framework, Django Channels
+- **Tech Stack**: NextJs, Tailwindcss, Django REST Framework, Django Channels, Postgresql
 - **Key Features**:
   - Real-time multiplayer Ping Pong game for 2 to 8 players (tournament mode)
   - JWT-based user authentication with 2FA for enhanced security
@@ -53,7 +53,7 @@ A full-stack web application featuring real-time Ping Pong gameplay.
 ### IRC SERVER 2023
 A scalable, high-concurrency IRC server implementation compliant with IRC RFC standards.
 
-- **Tech Stack**: C, Networking
+- **Tech Stack**: C++, Networking
 - **Key Features**:
   - Support for over 200 simultaneous clients
   - I/O multiplexing for efficient network communication
